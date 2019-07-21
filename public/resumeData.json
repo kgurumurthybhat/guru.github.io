@@ -10,7 +10,7 @@
     "phone": "754-715-6550",
     "address": {
       "street": "Personal Lane",
-      "city": "Weston",
+      "city": "Fort Lauderdale",
       "state": "Florida",
       "zip": "33327"
     },
@@ -29,7 +29,7 @@
       },
       {
         "name": "linkedin",
-        "url": "www.linkedin.com/in/guru04",
+        "url": "https://www.linkedin.com/in/guru04",
         "className": "fa fa-linkedin"
       },
       {
@@ -65,8 +65,12 @@
     ],
     "skills": [
       {
+        "name": "Technical Program Managment",
+        "level": "100%"
+      },
+      {
         "name": "Python",
-        "level": "99%"
+        "level": "100%"
       },
       {
         "name": "AWS Cloud computing",
@@ -74,15 +78,15 @@
       },
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "CSS",
         "level": "90%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "HTML5/ Jinja2",
+        "level": "90%"
       },
       {
         "name": "Dynamo DB",
@@ -113,7 +117,7 @@
       {
         "title": "Numbers Guru - a math skill for Alexa",
         "category": "Alexa Skill Development",
-        "image": "alexa.jpg",
+        "image": "alexa1.jpg",
         "url": "https://www.amazon.com/gp/product/B078QTMMLR?ref=cm_sw_tw_r_as_dp_r8kb5okY0U3Jr"
       },
       {
@@ -121,7 +125,38 @@
         "category": "Teaching and learning",
         "image": "python.png",
         "url": "https://hightechguru.net/python/learn"
+      },
+      {
+        "title": "Elementary School Math Worksheet Generator",
+        "category": "Teaching and learning",
+        "image": "math.png",
+        "url": "https://hightechguru.net/numbers/worksheet_home"
+      },
+      {
+        "title": "Elementary School Live Math Certification program",
+        "category": "Teaching and learning",
+        "image": "certificate.png",
+        "url": "https://hightechguru.net/numbers/certification_test"
+      },
+      {
+        "title": "Artificial Inteligence - AWS Project",
+        "category": "AI ML",
+        "image": "AI.jpg",
+        "url": "https://hightechguru.net/rekognition/ai_home"
+      },
+      {
+        "title": "Web tools!",
+        "category": "Tech Tools",
+        "image": "tools.png",
+        "url": "https://hightechguru.net/tools/tools_home"
+      },
+      {
+        "title": "Convert your Smart phone as POS for merchant!",
+        "category": "Tech Tools",
+        "image": "amexpos1.png",
+        "url": "https://hightechguru.net/tools/annexpos_home"
       }
+
     ]
   },
   "testimonials": {
