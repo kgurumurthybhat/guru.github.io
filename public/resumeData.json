@@ -1,56 +1,41 @@
 {
   "main": {
-    "name": "DaRi",
+    "name": "Guru",
     "occupation": "Technical Program Manager",
     "description": "Customer-focused Information Technology professional, I collaborate with engineering team, business partners, various other stakeholders to design, define, and deliver high-visibility programs and innovative solutions.",
     "image": "profilepic.jpg",
     "bio": "As a customer-focused Information Technology professional, I collaborate with engineering team, business partners, various other stakeholders to design, define, and deliver high-visibility programs and innovative solutions. Throughout my career, I have managed software projects and programs, banking industry products development, budgets, and teams to increase efficiencies while reducing costs. I partner with team members to develop strategies, define scope, establish infrastructure, specify deliverables, and execute plans. To maintain agility and continuous improvement, I align assignments with individuals' talents and provide coaching, performance feedback, and development opportunities. I've led and developed several software products (UI, API and Backend) at American Express Technologies which are directly used by millions of customers across the world. Quality is a priority for me. By defining measurable matrix, identifying/resolving potential risks, and communicating effectively across functions, I ensure adherence to standards, timelines, and deliverables. I tailor technical reporting and presentations to promote understanding among all audiences, gain buy-in, and ensure sustainable implementation of products and processes.",
     "contactmessage": "Please contact me below",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "hightechguru.feedback@gmail.com",
+    "phone": "754-715-6550",
     "address": {
-      "street": "0th Street",
-      "city": "Fort Lauderdale",
+      "street": "Personal Lane",
+      "city": "Weston",
       "state": "Florida",
-      "zip": "33333"
+      "zip": "33327"
     },
-    "website": "google.com",
-    "resumedownload": "https://en.wikipedia.org/wiki/Tim_Cook",
+    "website": "https://hightechguru.net",
+    "resumedownload": "https://s3.amazonaws.com/darcierivest.com/Guru+Resume+Jun+2019++v2.0.docx",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com",
+        "url": "https://www.facebook.com/kgurumurthybhat",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "https://twitter.com/kgurumurthybhat",
         "className": "fa fa-twitter"
       },
       {
-        "name": "google-plus",
-        "url": "http://googleplus.com/tba",
-        "className": "fa fa-google-plus"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com",
+        "url": "www.linkedin.com/in/guru04",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/",
+        "url": "https://github.com/kgurumurthybhat",
         "className": "fa fa-github"
-      },
-      {
-        "name": "skype",
-        "url": "http://skype.com",
-        "className": "fa fa-skype"
       }
     ]
   },
@@ -58,40 +43,34 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Bangalore University KA INDIA",
+        "degree": "Bachelors of Engineering",
+        "graduated": "September 2002",
+        "description": "Completed Bachelors of engineering Distingtion grade. Awarded Scholarship for all 4 years."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Atos Syntel Ltd. / American Express Technologies.",
+        "title": "Senior Technical Program Manager. ",
+        "years": "Jun 2015 - Present",
+        "description": "As a customer-focused Information Technology professional, I collaborate with engineering team, business partners, various other stakeholders to design, define, and deliver high-visibility programs and innovative solutions. Throughout my career for over 15 years, I have managed - software projects and programs, banking and payment industry products development, budgets, and teams to increase efficiencies while reducing costs. I partner with team members to develop strategies, define scope, establish infrastructure, specify deliverables, and execute plans. To maintain agility and continuous improvement, I align assignments with individuals' talents and provide coaching, performance feedback, and development opportunities. I've led and developed several software products (UI, API and Backend) at American Express Technologies which are directly used by millions of customers across the world. Quality is a priority for me. By defining measurable matrix, identifying/resolving potential risks, and communicating effectively across functions, I ensure adherence to standards, timelines, and deliverables. I tailor technical reporting and presentations to promote understanding among all audiences, gain buy-in, and ensure sustainable implementation of products and processes."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Tata Cosultancy Services Ltd. / American Express Technologies.",
+        "title": "Technical Leader",
+        "years": "Jun 2005 - Mar 2015",
+        "description": "As Technical Lead I have lead and delivered multiple high impact projects in payments industry performing multi million dollars payments every day across the globe."
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Python",
+        "level": "99%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "AWS Cloud computing",
+        "level": "80%"
       },
       {
         "name": "ReactJs",
@@ -106,11 +85,19 @@
         "level": "80%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "Dynamo DB",
+        "level": "80%"
       },
       {
         "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Oracle",
+        "level": "80%"
+      },
+      {
+        "name": "Alexa Skill Development",
         "level": "80%"
       }
     ]
@@ -118,47 +105,72 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "High tech Guru - A learning project for all.",
+        "category": "Learning never Ends!",
+        "image": "guru_new_logo.png",
+        "url": "https://hightechguru.net"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Numbers Guru - a math skill for Alexa",
+        "category": "Alexa Skill Development",
+        "image": "alexa.jpg",
+        "url": "https://www.amazon.com/gp/product/B078QTMMLR?ref=cm_sw_tw_r_as_dp_r8kb5okY0U3Jr"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Learn Python",
+        "category": "Teaching and learning",
+        "image": "python.png",
+        "url": "https://hightechguru.net/python/learn"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Guru is one of those rare team members who - besides providing great dedication to all his assignments - also serves as an inspiring mentor for the whole team. Guru has vast and broad technical experience, yes. However I believe his great interpersonal skills and a superb capacity for empathy result in his ability to motivate the team to care about its projects and the project’s success. He took it upon himself to be the go-to person for interacting with the programmer offsite team, and provided tireless effort, positive attitude and respect for others to achieve great results with that team, which included very successful software deliveries, as well as cost-saving and innovative process improvements. A great team member and leader, most definetely",
+        "user": "Alberto Antunano - TPM Amex"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I had the opportunity and privilege to work with Guru several times on many projects and he is a hard worker, he have a great relationship with the colleagues and it's focused on results. He has strong technical skills and he is a solid contributor to the team and the company.",
+        "user": "Eduardo Freitas - Project Architect at American Express Technologies - Brazil."
+      },
+      {
+        "text": "I worked with Guru for a complete year in on different projects. He was really a great partner and somebody to learn from as I was giving my first steps as project leader. As you can see at my profile, I don't like to do recommendations as this is something really important to me, and that I don't do for all the people I know. Guru if one of those guys you want in your team. Is respectful (he always wanted to know about my culture and how do we live in Argentina), great partner, excellent teacher and detailed oriented. You can always count with him even in those difficult situations. He has a 'can do' approach that is refreshing under stressful situations.",
+        "user": "Lucas Wells - Delivery Manager at IBM Argentina."
+      },
+      {
+        "text": "Guru welcomed me to the American Express/TCS IT group. He introduced me to TCS methodologies and lead me in SDLC. He is responsible and detail oriented and can keep track of multiple projects at the same time without losing focus. He is a very accessible and warm person and it was a pleasure working with him.",
+        "user": "Maria Soledad Ruiz - CRM Solution Architect at Advanced Software - Argentina."
+      },
+      {
+        "text": "I have worked with Guru for the past 2 years, and I must say he is a great person to work with. Guru is proactive, result oriented, responsible and technically sound employee and he is always ready to put all his energy and time to get the job done. He definitely helps projects move smoothly and makes sure that whatever project he is working on meets the highest standards. I am sure he has been and will be a great asset for any team.",
+        "user": "Barbara Blackaller - TPM at Tata Consultancy Services - Uruguay."
+      },
+      {
+        "text": "I had the pleasure to work with Guru during many years in American Express and in several projects . He is a very reliable technologies professional, always committed to the internal customer and never missing any deadline. He had to face many challenges given the short timeline that the Argentina tax authorities gave to implement several changes in the law that impacted the systems . His results were always outstanding.",
+        "user": "Roberto Galantai - Senior Tax Manager at American Express - Argentina."
+      },
+      {
+        "text": "I had the previlege to work with Guru during 3 years on many projects in American Express. He has a great relationship with all the colleagues and a strong knowledge in projects of different characteristics. He showed to be a great IT professional, always committed with all the aspects involved in the projects and the company itself.",
+        "user": "Cynthia Buffone - Product Owner at American Express."
+      },
+      {
+        "text": "I have had the pleasure to work with Guru for the past 4 years and he is a reliable software development lead willing to put all the effort required to meet his commitments and deliver a quality solution. He is detail oriented and a pleasure to deal with.",
+        "user": "Rene Delagado - Technical Relationship Manager at American Express Technologies - USA."
+      },
+      {
+        "text": "Guru is a very solid IT professional who strives to add value to the business. Result oriented, hard worker and someone that you can trust on. He proactively builds trust relationships with customers keeping customer satisfaction as a key goal. He showed those attributes on different projects that works with me in Amex Technologies LACC Team. And the most important, he is a great person.",
+        "user": "Juan Eduardo Roche - TPM at American Express Technologies."
+      },
+      {
+        "text": "I had the privilege of working with Guru as his leader at American Express. He is a Technical Lead in my organization who delivered outstanding results that were recognized across our team members. Guru brought passion, creativity and tought leadership to the team. He led multiples applications across the LAC and is our liaison between our develop center in India and our LAC center. His experience in different country working with Financial and Merchants platforms gives him a very diverse set of skills and experiences.",
+        "user": "Nelson Almeida - TPM at American Express Technologies USA."
+      },
+      {
+        "text": "I had the opportunity to work with Guru Krishnamurthy for several years in South Florida. He built and maintained a solid relationship with Tata Consultancy Services colleagues and also with American Express employees, both in Technologies and Business areas. He always partnered in a cooperative way with IT colleagues to overcome difficult situations and find the right solutions for our Clients. He has strong technical skills and he is a truly solid contributor to the team!. Thanks!",
+        "user": "Emilio Pintos - Engineering Director - American Express Technologies - USA."
       }
+
     ]
   }
 }
