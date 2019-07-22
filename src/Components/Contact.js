@@ -11,7 +11,7 @@ class Contact extends Component {
          <section id="contact">
 
          <div align="center">
-            <h2><a href="https://hightechguru.net/guru" target="_blank">Contact Guru</a></h2>
+            <h2><a href="https://hightechguru.net/guru#contact" target="_blank" rel="noopener noreferrer">Contact Guru</a></h2>
             <img className="profile-pic"  src={profilepic} alt="Guru's Profile Pic"  width="175px"/>
          </div>
 

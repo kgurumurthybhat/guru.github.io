@@ -46,7 +46,7 @@
         "school": "Bangalore University KA INDIA",
         "degree": "Bachelors of Engineering",
         "graduated": "September 2002",
-        "description": "Completed Bachelors of engineering Distingtion grade. Awarded Scholarship for all 4 years."
+        "description": "Completed Bachelors of engineering with Distingtion grade. Awarded Scholarship for all 4 years."
       }
     ],
     "work": [
@@ -72,19 +72,19 @@
     "skills": [
       {
         "name": "Technical Program Managment",
-        "level": "100%"
+        "level": "98%"
       },
       {
-        "name": "Python",
-        "level": "100%"
+        "name": "Python, Object Oriented Programming",
+        "level": "97%"
       },
       {
         "name": "AWS Cloud computing",
-        "level": "80%"
+        "level": "90%"
       },
       {
-        "name": "ReactJs",
-        "level": "70%"
+        "name": "ReactJs, JavaScript, Redux",
+        "level": "80%"
       },
       {
         "name": "CSS, HTML5/ Jinja2",
@@ -95,12 +95,12 @@
         "level": "80%"
       },
       {
-        "name": "Oracle",
+        "name": "Oracle, DB2",
         "level": "80%"
       },
       {
         "name": "Alexa Skill Development",
-        "level": "80%"
+        "level": "90%"
       }
     ]
   },
@@ -139,7 +139,7 @@
       {
         "title": "Artificial Inteligence - AWS Project",
         "category": "AI ML",
-        "image": "AI.png",
+        "image": "AI.jpg",
         "url": "https://hightechguru.net/rekognition/ai_home"
       },
       {
