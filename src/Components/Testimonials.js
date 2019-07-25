@@ -18,7 +18,7 @@ class Testimonials extends Component {
 
       return (
          <section id="testimonials">
-            <div className="ten columns flex-container"><br />
+            <div className="ten columns flex-container"><br /><br/>
                <h1 align="center">Testimonials <br /><a href="https://www.linkedin.com/in/guru04" target="_blank" rel="noopener noreferrer">[<i className="fa fa-linkedin"></i>]</a></h1>
                <h4>{testimonials}</h4>
             </div>
