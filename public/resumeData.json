@@ -46,7 +46,7 @@
         "school": "Bangalore University KA INDIA",
         "degree": "Bachelors of Engineering",
         "graduated": "September 2002",
-        "description": "Completed Bachelors of engineering with Distingtion grade. Awarded Scholarship for all 4 years."
+        "description": "Completed Bachelors of engineering with Distinction grade. Awarded Scholarship for complete education."
       }
     ],
     "work": [
@@ -54,7 +54,7 @@
         "company": "Atos Syntel Ltd. / American Express Technologies - Florida USA.",
         "title": "Senior Technical Program Manager. ",
         "years": "Jun 2015 - Present",
-        "description": "As a customer-focused Information Technology professional, I collaborate with engineering team, business partners, various other stakeholders to design, define, and deliver high-visibility programs and innovative solutions. Throughout my career for over 15 years, I have managed - software projects and programs, banking and payment industry products development, budgets, and teams to increase efficiencies while reducing costs. I partner with team members to develop strategies, define scope, establish infrastructure, specify deliverables, and execute plans. To maintain agility and continuous improvement, I align assignments with individuals' talents and provide coaching, performance feedback, and development opportunities. I've led and developed several software products (UI, API and Backend) at American Express Technologies which are directly used by millions of customers across the world. Quality is a priority for me. By defining measurable matrix, identifying/resolving potential risks, and communicating effectively across functions, I ensure adherence to standards, timelines, and deliverables. I tailor technical reporting and presentations to promote understanding among all audiences, gain buy-in, and ensure sustainable implementation of products and processes."
+        "description": "Banking and Financial services Technology domain professional with over 15 years of experience in application development, dealing with Account Payables, Receivables, Reconciliation, Accounting and Balancng controls.  Certified ScrumMaster CSM®, Certified SAFe® Practioner, Natural leader with successful proven track record managing large software systems in Latin America and the United States. Excellent skills in Program Management, People management, business planning, budgeting, forecasting, issues and risk management. Detail oriented, well organized, analytical, results oriented with passion to grow and deliver. Able to effectively work with cross-functional organizations and teams."
       },
       {
         "company": "Tata Cosultancy Services Ltd. / American Express Technologies - Florida USA",
@@ -91,11 +91,11 @@
         "level": "90%"
       },
       {
-        "name": "MongoDB, Amazon Dynamo DB",
+        "name": "MongoDB, Amazon Dynamo DB, Oracle, DB2",
         "level": "80%"
       },
       {
-        "name": "Oracle, DB2",
+        "name": "DevOps, CI/CD, GIT, GITHUB, BitBucket, Jenkin, AWS Amplify",
         "level": "80%"
       },
       {
@@ -109,51 +109,76 @@
       {
         "title": "High tech Guru - A learning project for all.",
         "category": "Learning never Ends!",
-        "image": "guru_new_logo.png",
+        "image": "images/portfolio/guru_new_logo.png",
         "url": "https://hightechguru.net"
       },
       {
         "title": "Numbers Guru - a math skill for Alexa",
         "category": "Alexa Skill Development",
-        "image": "alexa1.jpg",
+        "image": "images/portfolio/alexa1.jpg",
         "url": "https://www.amazon.com/gp/product/B078QTMMLR?ref=cm_sw_tw_r_as_dp_r8kb5okY0U3Jr"
       },
       {
         "title": "Learn Python",
         "category": "Teaching and learning",
-        "image": "python.png",
+        "image": "images/portfolio/python.png",
         "url": "https://hightechguru.net/python/learn"
+      },
+      {
+        "title": "AWS Certification quiz",
+        "category": "AWS Cloud",
+        "image": "images/portfolio/aws.png",
+        "url": "https://hightechguru.net/numbers/aws_quiz"
+      },
+      {
+        "title": "Tricky numbers - Code to solve!",
+        "category": "Learning and development",
+        "image": "images/portfolio/rubix.gif",
+        "url": "https://hightechguru.net/algorithm/algorithm_home"
       },
       {
         "title": "Elementary School Math Worksheet Generator",
         "category": "Teaching and learning",
-        "image": "math.png",
+        "image": "images/portfolio/math.png",
         "url": "https://hightechguru.net/numbers/worksheet_home"
       },
       {
         "title": "Elementary School Live Math Certification program",
         "category": "Teaching and learning",
-        "image": "certificate.png",
+        "image": "images/portfolio/certificate.png",
         "url": "https://hightechguru.net/numbers/certification_test"
       },
       {
         "title": "Artificial Inteligence - AWS Project",
         "category": "AI ML",
-        "image": "AI.jpg",
+        "image": "images/portfolio/ai_image.jpg",
         "url": "https://hightechguru.net/rekognition/ai_home"
       },
       {
         "title": "Web tools!",
         "category": "Tech Tools",
-        "image": "tools.png",
+        "image": "images/portfolio/tools.png",
         "url": "https://hightechguru.net/tools/tools_home"
       },
       {
-        "title": "Convert your Smart phone as POS for merchant!",
-        "category": "Tech Tools",
-        "image": "amexpos1.png",
+        "title": "Convert your Smart phone as Point Of Sale machine.",
+        "category": "Point of Sale - Financial",
+        "image": "images/portfolio/amexpos1.png",
         "url": "https://hightechguru.net/tools/annexpos_home"
+      },
+      {
+        "title": "Search free to use image!.",
+        "category": "Image search",
+        "image": "https://source.unsplash.com/300x300/?nature,female",
+        "url": "https://hightechguru.net/tools/image_search"
+      },
+      {
+        "title": "Tech Topics!.",
+        "category": "Technology",
+        "image": "images/portfolio/system_design.png",
+        "url": "https://hightechguru.net/tech_blog/"
       }
+
     ]
   },
   "testimonials": {
