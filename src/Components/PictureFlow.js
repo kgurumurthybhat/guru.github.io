@@ -91,7 +91,8 @@ class PictureFlow extends React.Component {
     return (
       <section>
         <div className="row">
-          <ImageGallery items={images} autoPlay={true} />
+          <h4>Some pictures from sports field!</h4>
+          <ImageGallery items={images} autoPlay={true} thumbnailPosition='top' />
         </div>
       </section>
     );
