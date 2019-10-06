@@ -7,92 +7,94 @@ class PictureFlow extends React.Component {
 
     const images = [
       {
-        original: 'images/sports/img1.jpg',
-        thumbnail: 'images/sports/img1.jpg',
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img1.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img1.jpg',
 
       },
       {
-        original: 'images/sports/img2.jpg',
-        thumbnail: 'images/sports/img2.jpg',
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img2.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img2.jpg',
 
       },
       {
-        original: 'images/sports/img3.jpg',
-        thumbnail: 'images/sports/img3.jpg',
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img3.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img3.jpg',
 
       },
       {
-        original: 'images/sports/img4.jpg',
-        thumbnail: 'images/sports/img4.jpg',
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img4.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img4.jpg',
 
       },
       {
-        original: 'images/sports/img5.jpg',
-        thumbnail: 'images/sports/img5.jpg',
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img5.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img5.jpg',
 
       },
       {
-        original: 'images/sports/img6.jpg',
-        thumbnail: 'images/sports/img6.jpg',
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img6.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img6.jpg',
 
       },
       {
-        original: 'images/sports/img7.jpg',
-        thumbnail: 'images/sports/img7.jpg',
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img7.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img7.jpg',
 
       },
       {
-        original: 'images/sports/img8.jpg',
-        thumbnail: 'images/sports/img8.jpg',
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img8.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img8.jpg',
 
       },
       {
-        original: 'images/sports/img9.jpg',
-        thumbnail: 'images/sports/img9.jpg',
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img9.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img9.jpg',
 
       },
       {
-        original: 'images/sports/img10.jpg',
-        thumbnail: 'images/sports/img10.jpg',
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img10.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img10.jpg',
 
       },
       {
-        original: 'images/sports/img11.jpg',
-        thumbnail: 'images/sports/img11.jpg',
-
-      }, 
-      {
-        original: 'images/sports/img12.jpg',
-        thumbnail: 'images/sports/img12.jpg',
-
-      }, 
-      {
-        original: 'images/sports/img13.jpg',
-        thumbnail: 'images/sports/img13.jpg',
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img11.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img11.jpg',
 
       },
       {
-        original: 'images/sports/img14.jpg',
-        thumbnail: 'images/sports/img14.jpg',
-       
-      },
-      {
-        original: 'images/sports/img15.jpg',
-        thumbnail: 'images/sports/img15.jpg',
-       
-      },
-      {
-        original: 'images/sports/img16.jpg',
-        thumbnail: 'images/sports/img16.jpg',
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img12.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img12.jpg',
 
-      }, 
+      },
+      {
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img13.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img13.jpg',
+
+      },
+      {
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img14.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img14.jpg',
+
+      },
+      {
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img15.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img15.jpg',
+
+      },
+      {
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img16.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img16.jpg',
+
+      },
     ]
 
     return (
       <section>
         <div className="row">
-          <h4>Some pictures from sports field!</h4>
-          <ImageGallery items={images} autoPlay={true} thumbnailPosition='top' />
+          <div className="row eight">
+            <ImageGallery items={images} autoPlay={true} thumbnailPosition='top' />
+            <h4 style={{ color: "white", padding: "30px" }}>Some pictures from sports field!</h4>
+          </div>
         </div>
       </section>
     );
@@ -100,3 +102,4 @@ class PictureFlow extends React.Component {
 
 }
 export default PictureFlow;
+
