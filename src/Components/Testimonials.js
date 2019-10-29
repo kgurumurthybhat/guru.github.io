@@ -9,8 +9,13 @@ class Testimonials extends Component {
             return <li key={testimonials.user}>
                <hr />
                <blockquote>
+
                   <p>{testimonials.text}</p>
-                  <cite>{testimonials.user}</cite>
+                  <div>
+                     <h6 style={{ color: "lightgreen" }}>From: </h6><br/>
+                     <img src={`/images/linkedin/${testimonials.image}.jpeg`} alt={testimonials.image} width="100px" padding="20px" />
+                     <h6 style={{ color: "lightgreen" }}>{testimonials.user}</h6>
+                  </div>
                </blockquote>
             </li>
          })
@@ -18,9 +23,10 @@ class Testimonials extends Component {
 
       return (
          <section id="testimonials">
-            <div className="ten columns flex-container"><br /><br/>
+            <div className="ten columns flex-container"><br /><br />
                <h1 align="center">Testimonials <br /><a href="https://www.linkedin.com/in/guru04" target="_blank" rel="noopener noreferrer">[<i className="fa fa-linkedin"></i>]</a></h1>
-               <h4>{testimonials}</h4>
+               {testimonials}
+               <hr />
             </div>
 
 

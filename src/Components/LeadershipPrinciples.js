@@ -68,7 +68,7 @@
     
    const LeadershipPrinciples = () => (
      <div align="center">
-       <h4>Leadership Principles... </h4>
+       <h4 style={{ color: "lightgreen" }}>Leadership Principles... </h4>
        <h3><ReactTextRotator
          content={content}
          time={5000}
