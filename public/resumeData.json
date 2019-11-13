@@ -3,7 +3,7 @@
     "name": "Guru",
     "occupation": "Technical Program Manager",
     "description": "As a Customer-focused Information Technology professional, I collaborate with engineering team, business partners, various other stakeholders to design, define, and deliver high-visibility programs and innovative solutions.",
-    "image": "profilepic.jpg",
+    "image": "https://guruweb-image-folder.s3.amazonaws.com/resume/profile.jpg",
     "bio": "As a customer-focused Information Technology professional, I collaborate with engineering team, business partners, various other stakeholders to design, define, and deliver high-visibility programs and innovative solutions. Throughout my career, I have managed software projects and programs, banking industry products development, budgets, and teams to increase efficiencies while reducing costs. I partner with team members to develop strategies, define scope, establish infrastructure, specify deliverables, and execute plans. To maintain agility and continuous improvement, I align assignments with individuals' talents and provide coaching, performance feedback, and development opportunities. I've led and developed several software products (UI, API and Backend) at American Express Technologies which are directly used by millions of customers across the world. Quality is a priority for me. By defining measurable matrix, identifying/resolving potential risks, and communicating effectively across functions, I ensure adherence to standards, timelines, and deliverables. I tailor technical reporting and presentations to promote understanding among all audiences, gain buy-in, and ensure sustainable implementation of products and processes.",
     "contactmessage": "Please contact me below",
     "email": "hightechguru.feedback@gmail.com",
@@ -56,21 +56,24 @@
         "title": "Senior Technical Program Manager. ",
         "years": "Jun 2015 - Present",
         "description": "Banking and Financial services Technology domain professional with over 15 years of experience in application development, dealing with Account Payables, Receivables, Reconciliation, Accounting and Balancng controls.  Certified ScrumMaster CSM®, Certified SAFe® Practioner, Natural leader with successful proven track record managing large software systems in Latin America and the United States. Excellent skills in Program Management, People management, business planning, budgeting, forecasting, issues and risk management. Detail oriented, well organized, analytical, results oriented with passion to grow and deliver. Able to effectively work with cross-functional organizations and teams.",
-        "image": "amex" 
+        "image": "amex",
+        "image2": "atos" 
       },
       {
         "company": "Tata Consultancy Services Ltd. / American Express Technologies - Florida USA",
         "title": "Technical Leader, Senior Software Engineer.",
         "years": "Jun 2005 - Mar 2015",
         "description": "As Technical Lead I have lead and delivered multiple high impact projects in payments industry performing multi million dollars payments every day across the globe.",
-        "image": "amex" 
+        "image": "amex",
+        "image2": "tata" 
       },
       {
         "company": "Owari Precision products / Toyota Techno Park - Bangalore, India.",
         "title": "Quality Assurance Engineer.",
         "years": "Aug 2003 - Jun 2005",
         "description": "I started my career with a Japanese Start up company called Owari Precision Products located within Toyota Motors India,  where I was responsible for Quality Assurance of  high precision products supplied to all Toyota Motor Corporation across globe. Some of the terminology / process used in modern day IT companies are derived from Toyota Production System (TPS).",
-        "image": "toyota" 
+        "image": "toyota",
+        "image2": "blank" 
       }
     ],
     "skills": [
@@ -246,6 +249,11 @@
         "text": "Guru is a very knowledgeable IT professional with great leadership skills.  Always very professional, practicing teamwork at all times.  Guru has the ability to make complex requests look easy due to his attention to details and communication skills.  We currently work together as part of an Agile Scrum team and I really enjoy working with him.",
         "user": "Eidi Claro - Global Business Manager  - American Express Technologies - USA.",
         "image": "eidi"
+      },
+      {
+        "text": "I had the pleasure of working with Guru in his LAC role. He is a tireless worker and is highly goal motivated. He isn't satisfied until he has uncovered the root cause of an issue. He is a fast learner and quickly masters the subject matter. He is a terrific talent and a great asset to any organization.",
+        "user": "Silvia Blanco - Regional Director  - American Express Business.",
+        "image": "silvia"
       }
     ]
   }
