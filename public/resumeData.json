@@ -52,9 +52,17 @@
     ],
     "work": [
       {
+        "company": "Amazon.com  - Seattle, WA, USA.",
+        "title": "Technical Program Manager. ",
+        "years": "Feb 2020 - present",
+        "description": "Just joined, its still day-1. Guru to serve as a Technical Program Manager at Amazon in Seattle, Washington. In this capacity, Mr. Guru will coordinate and manage technical project and program development of large-scale, distributed software applications, systems, platforms, services, or technologies using Object Oriented coding and design (Java, C  , Perl, HTML) throughout the complete software development lifecycle, from design through release. Duties will also include: defining projects, collecting business requirements, and writing functional and technical specifications; driving software development efforts and managing priorities for project/program completion, including software application performance tuning; developing and managing technical projects and products; creating schedules, identifying and communicating risks to stakeholders, defining risk mitigation strategies, and facilitating appropriate software engineering solutions; and managing cross-functional teams and/or third party-vendors for implementation of project/program requirements.",
+        "image": "amazon",
+        "image2": "blank" 
+      },
+      {
         "company": "Atos Syntel Ltd. / American Express Technologies - Florida USA.",
         "title": "Senior Technical Program Manager. ",
-        "years": "Jun 2015 - Present",
+        "years": "Jun 2015 - Feb 2020",
         "description": "Banking and Financial services Technology domain professional with over 15 years of experience in application development, dealing with Account Payables, Receivables, Reconciliation, Accounting and Balancng controls.  Certified ScrumMaster CSM®, Certified SAFe® Practioner, Natural leader with successful proven track record managing large software systems in Latin America and the United States. Excellent skills in Program Management, People management, business planning, budgeting, forecasting, issues and risk management. Detail oriented, well organized, analytical, results oriented with passion to grow and deliver. Able to effectively work with cross-functional organizations and teams.",
         "image": "amex",
         "image2": "atos" 
