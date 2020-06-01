@@ -9,6 +9,7 @@ class PictureFlow extends React.Component {
       {
         original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img1.jpg',
         thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img1.jpg',
+        originalTitle: 'Tennis tropies!',
 
       },
       {
@@ -84,6 +85,26 @@ class PictureFlow extends React.Component {
       {
         original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img16.jpg',
         thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img16.jpg',
+
+      },
+      {
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img17.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img17.jpg',
+
+      },
+      {
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img18.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img18.jpg',
+
+      },
+      {
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img19.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img19.jpg',
+
+      },
+      {
+        original: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img20.jpg',
+        thumbnail: 'https://guruweb-image-folder.s3.amazonaws.com/resume/img20.jpg',
 
       },
     ]
