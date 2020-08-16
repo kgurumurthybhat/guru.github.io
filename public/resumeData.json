@@ -192,6 +192,12 @@
         "category": "Technology",
         "image": "images/portfolio/system_design.png",
         "url": "https://hightechguru.net/tech_blog/"
+      },
+      {
+        "title": "AI Experiment!",
+        "category": "Technology",
+        "image": "images/portfolio/ai_emoji.png",
+        "url": "https://hightechguru.net/rekognition/ai_experiment"
       }
 
     ]
