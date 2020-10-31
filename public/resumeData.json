@@ -184,7 +184,7 @@
       {
         "title": "Search free to use image!.",
         "category": "Image search",
-        "image": "https://source.unsplash.com/300x300/?nature,female",
+        "image": "https://source.unsplash.com/300x300/?nature",
         "url": "https://hightechguru.net/tools/image_search"
       },
       {
@@ -198,6 +198,12 @@
         "category": "Technology",
         "image": "images/portfolio/ai_emoji.png",
         "url": "https://hightechguru.net/rekognition/ai_experiment"
+      },
+      {
+        "title": "Time pass apps!",
+        "category": "Technology",
+        "image": "images/portfolio/sudoku.png",
+        "url": "https://timepass.hightechguru.net/"
       }
 
     ]
